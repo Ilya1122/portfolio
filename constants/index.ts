@@ -1,0 +1,1 @@
+export const AVATAR_LINK = 'https://media-exp1.licdn.com/dms/image/C4E03AQEeMVIiD6C_Rg/profile-displayphoto-shrink_200_200/0/1662405922552?e=1669852800&v=beta&t=DQ_dk0pY3g8Mug4IzWJJRRRS9WgHY64UPk4vyq7q144'
