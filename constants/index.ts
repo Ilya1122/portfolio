@@ -1,1 +1,2 @@
 export const AVATAR_LINK = 'https://media-exp1.licdn.com/dms/image/C4E03AQEeMVIiD6C_Rg/profile-displayphoto-shrink_200_200/0/1662405922552?e=1669852800&v=beta&t=DQ_dk0pY3g8Mug4IzWJJRRRS9WgHY64UPk4vyq7q144'
+export const MY_PHOTO = 'https://scontent.fiev22-1.fna.fbcdn.net/v/t39.30808-6/244731499_1754753698049051_3065032843524914189_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=_wQvcOgcGw0AX-x0IrM&_nc_ht=scontent.fiev22-1.fna&oh=00_AT_jQY7zjB0e0MQZD_GK0dXkjBLKZK2gZZNYfo7xI-H2bw&oe=633A364F'
